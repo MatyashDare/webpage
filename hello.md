@@ -3,4 +3,4 @@
 1. млекопитающих,
 +  по ряду
 3. признаков напоминающих рептилий. Это уникальное животное является одним из символов Австралии; оно [изображено](https://ru.wikipedia.org/wiki/Утконос) на реверсе австралийской монеты в 20 центов.
-[hello] (https://ru.wikipedia.org/wiki/Утконос#/media/Файл:Platypus.jpg)
+![hello] (https://ru.wikipedia.org/wiki/Утконос#/media/Файл:Platypus.jpg)
